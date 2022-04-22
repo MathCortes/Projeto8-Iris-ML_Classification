@@ -8,6 +8,6 @@
 - Gerar um modelo de classificação capaz de diferenciar tipos de flores da base iris
 
 ### Tópicos abordados
-- Trabalhar de maneira mais aprofundada com o modelo: K-means
+- Trabalhar de maneira mais aprofundada com o modelo: K-Nearest Neighbors
 - Análise de Hiperparâmetro: n_neighbors
 - Estudar os conceitos de Overfitting x Underfitting
